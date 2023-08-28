@@ -11,7 +11,7 @@ Before you begin, ensure that you have the following prerequisites installed on 
 1. Clone the project repository using Git:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+## git clone =>>>  https://kanyabhoir.github.io/maclareen/
 
 
    1. Open the project in Visual Studio Code:
